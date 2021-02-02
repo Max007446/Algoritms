@@ -24,5 +24,5 @@ func main() {
 	}
 
 	fmt.Println("Максимальное число", MaxNumber)
-	Indexbody.Indexbody()
+	Indexbody.Indexbody2()
 }

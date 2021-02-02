@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func Indexbody() {
+func Indexbody2() {
 
 	m := 82.0
 	h := 1.81
