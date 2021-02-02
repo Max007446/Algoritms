@@ -7,16 +7,16 @@ import (
 func main() {
 	MaxNumber := 0
 	a := 10
-	b := 1
-	c := 54
-	d := 150
-	if a > b && a > c && a > d {
+	b := 5004
+	c := 5004
+	d := 5004
+	if a >= b && a >= c && a >= d {
 		MaxNumber = a
-	} else if b > a && b > c && b > d {
+	} else if b >= a && b >= c && b >= d {
 		MaxNumber = b
-	} else if c > a && c > b && c > d {
+	} else if c >= a && c >= b && c >= d {
 		MaxNumber = c
-	} else if d > a && d > b && d > c {
+	} else if d >= a && d >= b && d >= c {
 		MaxNumber = d
 
 	}
