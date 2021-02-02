@@ -1,4 +1,4 @@
-package maxdigits
+package main
 
 import (
 	"fmt"
