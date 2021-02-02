@@ -4,7 +4,6 @@ import (
 	"fmt"
 
 	"github.com/max007446/Algoritms/main/Indexbody"
-	"github.com/max007446/Algoritms/main/Indexbody/Indexbody"
 )
 
 func main() {
