@@ -1,9 +1,9 @@
-package Maxdigits
+package maxdigits
 
 import (
 	"fmt"
 
-	"github.com/max007446/Algoritms/lesson1/Indexbody/Indexbody"
+	"github.com/max007446/Algoritms/Indexbody/Indexbody"
 )
 
 func main() {
