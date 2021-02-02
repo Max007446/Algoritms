@@ -1,4 +1,4 @@
-package indexbody
+package Indexbody
 
 import (
 	"fmt"
