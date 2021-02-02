@@ -3,7 +3,8 @@ package maxdigits
 import (
 	"fmt"
 
-	"github.com/max007446/Algoritms/Indexbody/Indexbody"
+	"github.com/max007446/Algoritms/main/Indexbody"
+	"github.com/max007446/Algoritms/main/Indexbody/Indexbody"
 )
 
 func main() {
@@ -24,5 +25,5 @@ func main() {
 	}
 
 	fmt.Println("Максимальное число", MaxNumber)
-	Indexbody.Indexbody2()
+	Indexbody.Indexbody()
 }
