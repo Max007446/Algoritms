@@ -3,7 +3,7 @@ package Maxdigits
 import (
 	"fmt"
 
-	"github.com/max007446/Algoritms/Indexbody"
+	"github.com/max007446/Algoritms/lesson1/Indexbody"
 )
 
 func main() {
