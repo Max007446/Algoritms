@@ -14,7 +14,7 @@ func main() {
 	for {
 		N = N - K
 		ch = ch + 1
-		if N <= K {
+		if N < K {
 			break
 		}
 	}
